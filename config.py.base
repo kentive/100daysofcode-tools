@@ -1,0 +1,16 @@
+# Copy this file and remove ".base" from the name of copied one.
+# Set your variables below (in the copied one).
+
+# Twitter API Info
+TWITTER_API = {
+    'API_KEY': 'XXXXXX',
+    'API_KEY_SECRET': 'XXXXXX',
+    'BEARER_TOKEN': 'XXXXXX',
+    'ACCESS_TOKEN': 'XXXXXX',
+    'ACCESS_TOKEN_SECRET': 'XXXXXX',
+    'OAUTH2_CLIENT_ID': 'XXXXXX',
+    'OAUTH2_CLIENT_SECRET': 'XXXXXX'
+}
+
+# GitHub repository path for your 100daysofcode
+GIT_REPO_PATH = 'https://github.com/XXXXXX'
